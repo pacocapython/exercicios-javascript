@@ -1,0 +1,2 @@
+//Exercício 17: Gerador de Sorteio (1 a 100) Crie uma função sortearPessoa() que não recebe parâmetros. Ela deve gerar e 
+// retornar um número inteiro aleatório entre 1 e 100 usando Math.random() e Math.floor().

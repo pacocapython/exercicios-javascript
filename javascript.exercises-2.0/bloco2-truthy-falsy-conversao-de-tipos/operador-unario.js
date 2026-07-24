@@ -1,0 +1,2 @@
+//Exercício 10: O Operador Unário + Crie a variável const valorTexto = "150". Em um console.log(), use o sinal de + antes da
+//  variável (ex: +valorTexto + 50) para forçar a conversão para número e somar com 50.

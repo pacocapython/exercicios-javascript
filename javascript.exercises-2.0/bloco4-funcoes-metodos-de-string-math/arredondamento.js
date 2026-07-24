@@ -1,0 +1,2 @@
+//Exercício 16: Arredondamento para Cima e Baixo Crie uma função tradicional analisarNumero(num) que receba um decimal
+// (ex: 4.7). Ela deve imprimir dois resultados no terminal: um usando Math.ceil(num) e outro usando Math.floor(num).

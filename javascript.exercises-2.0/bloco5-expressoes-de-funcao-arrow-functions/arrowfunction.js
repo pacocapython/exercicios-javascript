@@ -1,0 +1,2 @@
+//Exercício 23: Arrow Function de Dobro (1 Linha) Crie uma Arrow Function de retorno implícito
+//  chamada dobrar em apenas uma linha (sem chaves {} e sem return) que receba um número e retorne o dobro dele.
