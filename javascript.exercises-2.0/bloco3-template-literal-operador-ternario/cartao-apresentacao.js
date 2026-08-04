@@ -1,2 +1,6 @@
 //Exercício 11: Cartão de Apresentação Crie as variáveis nome, idade e cidade. Use Template String 
 // (com crases ` e ${}) para formar a frase: "Meu nome é [nome], tenho [idade] anos e moro em [cidade].".
+const nome = "Pirocorson";
+const idade = 67;
+const cidade = "Anta Gorda";
+console.log(`Meu nome é ${nome}, tenho ${idade} anos e moro em ${cidade}.`);

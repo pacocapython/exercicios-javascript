@@ -3,3 +3,15 @@
 //Nota >= 7: "Bom"
 //Nota >= 5: "Razoável"
 //Nota < 5: "Insuficiente"
+function avaliarDesempenho(nota) {
+    if (nota >= 9) {
+        return "Excelente" 
+    } else if (nota >=7) {
+        return "Bom"
+    } else if (nota >=5) {
+        return "Razoável"
+    } else {
+        return "insuficiente"
+    }
+}
+console.log(avaliarDesempenho(Math.random() * 10))

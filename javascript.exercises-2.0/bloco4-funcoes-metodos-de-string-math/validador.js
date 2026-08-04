@@ -1,2 +1,11 @@
 //Exercício 19: Validador de Tamanho de Senha Crie uma função validarSenha(senha) que receba uma string. 
 // Se a quantidade de caracteres (.length) for maior ou igual a 8, retorne "Senha válida", senão retorne "Senha muito curta".
+function validarSenha(senha) {
+if (senha.length >= 8) {
+    return "Senha válida";
+} else {
+    return "Senha muito curta";
+}
+} 
+console.log(validarSenha("12345678"));
+console.log(validarSenha("ohyeah"));
